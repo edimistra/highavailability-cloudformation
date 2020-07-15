@@ -1,0 +1,15 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "HighAvailabilityWebsite"
+	},
+	{
+		"ParameterKey": "minInstances",
+		"ParameterValue": "4"
+	}
+	,
+	{
+		"ParameterKey": "maxInstances",
+		"ParameterValue": "4"
+	}
+]
